@@ -1,6 +1,6 @@
 # A simple eCommerce app developped fully in laravel
 
-[![Front view](https://postimg.cc/ts31C9dk)](https://i.postimg.cc/3x621Rds/screen-1.png)
+[![Front view](https://i.postimg.cc/3x621Rds/screen-1.png)](https://postimg.cc/ts31C9dk)
 [![Front view 2](https://postimg.cc/5jrQs7NB)](https://i.postimg.cc/4NfvNqDS/screen-2.png)
 
 [![Dashboard](https://postimg.cc/fky0jnZW)](https://i.postimg.cc/fWjjsDrd/dashboard-1.png)
